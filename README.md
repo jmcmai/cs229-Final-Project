@@ -1,5 +1,5 @@
 # cs229-Final-Project
-Text-Based Prediction of MBTI Personality Type
+Text-Based Prediction of MBTI Personality Types
 
 Milestone To-Do's: 
 
