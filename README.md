@@ -10,3 +10,12 @@ Milestone To-Do's:
 
 3. Test out a model: Multinomial Naive Bayes (use sklearn)
 4. Test out another model: Logistic Regression or some other model
+
+Final Project To-Do's:
+1. Preprocess data: include individual letters to compare each indicator individually
+2. Preprocess data: clean data better
+3. Modeling data: rerun models without individual letters to update scores (b/c fixed cleaning data)
+4. Modeling data: rerun models with individual letters + compare results
+    - include balanced accuracy
+5. Write up
+6. Poster
